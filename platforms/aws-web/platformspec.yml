@@ -1,0 +1,5 @@
+name: funcstackplatform
+version: 0.1
+modules:
+  mycompute:
+    type:  ./modules/local-example
