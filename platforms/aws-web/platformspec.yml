@@ -1,5 +1,6 @@
 name: funcstackplatform
 version: 0.1
+provider: aws
 modules:
   mycompute:
     type:  ./modules/local-example
