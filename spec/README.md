@@ -4,7 +4,7 @@
 
 ## Summary
  
-To package, version and distribute the Infrastructure-as-Code templates, FuncStack proposes the Module format.
+To version， distribute and share the Infrastructure-as-Code templates, FuncStack proposes the Module, a package format for Infrastracture-as-Code templates.
 Each module is a group of infrastructure resources that support certain infrastructure functionality, such as compute, database and etc.
 
 FuncStack Platform is an higher-level abstracted entity that could be used to run certain type of applications. A platform contains at least one compute module.
